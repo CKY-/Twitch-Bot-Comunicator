@@ -1,0 +1,141 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "yarn start",
+  "backendFolderName": "F:\\Twitch\\FireBot-Commander",
+  "certificateExceptions": [],
+  "extensionViews": [
+    {
+      "channelId": "79854720",
+      "configurationAnchor": "panel",
+      "displayChannelName": "c_k_y",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "frameSize": {
+        "width": 1280,
+        "height": 720
+      },
+      "id": "5",
+      "isPopout": false,
+      "label": "",
+      "linked": false,
+      "linkedUserId": "",
+      "orientation": "Portrait",
+      "type": "panel",
+      "viewerType": "Broadcaster"
+    },
+    {
+      "channelId": "79854720",
+      "configurationAnchor": "panel",
+      "displayChannelName": "c_k_y",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "frameSize": {
+        "width": 375,
+        "height": 822
+      },
+      "id": "6",
+      "isPopout": false,
+      "label": "",
+      "linked": false,
+      "linkedUserId": "",
+      "orientation": "Portrait",
+      "type": "mobile",
+      "viewerType": "Broadcaster"
+    },
+    {
+      "channelId": "79854720",
+      "configurationAnchor": "component",
+      "displayChannelName": "c_k_y",
+      "features": {
+        "isBitsEnabled": false,
+        "isChatEnabled": false,
+        "isSubscriptionStatusAvailable": false
+      },
+      "frameSize": {
+        "width": 1280,
+        "height": 720
+      },
+      "id": "7",
+      "isPopout": false,
+      "label": "",
+      "linked": true,
+      "linkedUserId": "265737932",
+      "orientation": "Portrait",
+      "type": "config",
+      "viewerType": "Broadcaster"
+    }
+  ],
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "C_K_Y",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/config.html",
+    "configurationLocation": "hosted",
+    "description": "Add a Script to Firebot to show viewers the commands you want them to see,\nhttps://github.com/brumoen/firebot-twitch-extension-communicator-script\n",
+    "eulaTosUrl": "https://github.com/brumoen/firebot-twitch-extension-communicator-script",
+    "hasChatSupport": false,
+    "iconUrl": "https://extensions-discovery-images.twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/logo87db9bc3-2282-4853-b918-273efb6d7496",
+    "iconUrls": {
+      "100x100": "https://extensions-discovery-images.twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/logo87db9bc3-2282-4853-b918-273efb6d7496",
+      "24x24": "https://extensions-discovery-images.twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/taskbarb2eb749d-dddf-4fa6-ad15-9a2ad626545b",
+      "300x200": "https://extensions-discovery-images.twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/discoveryc53ed3de-37e4-475c-8955-507d348d8ebc"
+    },
+    "id": "pwvae8sv67z0z87bjkm74psybpgwqa",
+    "installationCount": -42,
+    "liveConfigUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/Live_cinfig.html",
+    "name": "FireBot-Commands",
+    "panelHeight": 500,
+    "privacyPolicyUrl": "https://github.com/brumoen/firebot-twitch-extension-communicator-script",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [
+      "https://extensions-discovery-images.twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/screenshotee8c2ba3-ff7a-4ff8-9c07-3cb3ffa053cc"
+    ],
+    "sku": "",
+    "state": "Assets Uploaded",
+    "subscriptionsSupportLevel": "none",
+    "summary": "Shows a list of commands for firebot updated by a script",
+    "supportEmail": "xx_cky_xx@hotmail.com",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "Shows enabled commands for you to type in chat ",
+    "viewerUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/panel.html",
+    "viewerUrls": {
+      "mobile": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/mobile.html",
+      "panel": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/panel.html"
+    },
+    "views": {
+      "mobile": {
+        "viewerUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/mobile.html"
+      },
+      "panel": {
+        "viewerUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/panel.html",
+        "height": 500,
+        "canLinkExternalContent": false
+      },
+      "config": {
+        "viewerUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/config.html",
+        "canLinkExternalContent": false
+      },
+      "liveConfig": {
+        "viewerUrl": "https://pwvae8sv67z0z87bjkm74psybpgwqa.ext-twitch.tv/pwvae8sv67z0z87bjkm74psybpgwqa/0.0.1/5102af13b2638d7fea596ba7a05a7aae/Live_cinfig.html",
+        "canLinkExternalContent": false
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "frontendCommand": "",
+  "frontendFolderName": "",
+  "name": "firebot-Bot-Commands",
+  "usingRandomFrontendHostingPort": false,
+  "version": 3
+}

@@ -1,0 +1,3 @@
+[submodule "firebot-twitch-extension-communicator-script"]
+	path = firebot-twitch-extension-communicator-script
+	url = https://github.com/brumoen/firebot-twitch-extension-communicator-script
